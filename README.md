@@ -1,6 +1,5 @@
 
-# 🤖 K-Nearest Neighbors (KNN) Classifier – Codveda Internship Task 3 (Updated)
-
+# 🤖 K-Nearest Neighbors (KNN) Classifier – Codveda Internship Task 3
 This project is part of the **Codveda Machine Learning Internship**, where I implemented and evaluated a classification model using the **K-Nearest Neighbors (KNN)** algorithm on the **Iris dataset**.
 
 ---
